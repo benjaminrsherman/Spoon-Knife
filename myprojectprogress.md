@@ -1,0 +1,1 @@
+Another project I'm interested in is a text editor for latex which supports inline rendered latex.  This would be helpful when taking notes in latex.  I think the best way to organize this project would be with a blessed repository, because it would let people contribute without possible causing harm.
